@@ -1,3 +1,14 @@
+
+body  main {
+    display: flex;
+}
+body {
+    flex-direction: column;
+}
+main {
+    flex-direction: row;
+    flex: auto;
+}
 h1 {
     color: #fff;
     margin-top: 20px;

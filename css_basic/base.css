@@ -45,14 +45,7 @@ aside {
     background-color: #ddd;
     padding: 10px;
 }
-footer {
-    background: #000;
-    color: #fff;
-    text-align: center;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
+
 footer a {
     color: #fff;
     text-decoration: none;
