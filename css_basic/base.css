@@ -56,9 +56,11 @@ footer {
 footer a {
     color: #fff;
     text-decoration: none;
+    margin: 0;
 }
 footer a:hover {
     text-decoration: underline;
+    color: yellow;
 }
 #learners {
     margin-top: 20px;
