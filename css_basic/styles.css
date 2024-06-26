@@ -9,6 +9,14 @@ main {
     flex-direction: row;
     flex: auto;
 }
+article {
+    flex: 2;
+    overflow-y: auto;
+}
+aside {
+    flex: 1;
+    overflow-y: auto;
+}
 h1 {
     color: #fff;
     margin-top: 20px;
@@ -30,4 +38,5 @@ p {
 }
 footer {
     background-color: #220e0e;
+    color: #fff;
 }
